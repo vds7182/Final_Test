@@ -1,3 +1,5 @@
 print("Hello world")
 print("Bye")
-a=20
+c=20.67
+b="string"
+print(c+b)
